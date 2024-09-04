@@ -25,6 +25,7 @@
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
+  color: rgba(33, 33, 33, 1);
 }
 
 .profile__description {
@@ -35,15 +36,19 @@
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 500;
 }
 
 .profile__edit-btn {
   margin-top: auto;
   background-color: transparent;
-  border: none;
   gap: 20px;
   margin-right: auto;
   color: rgba(33, 33, 33, 1);
+  display: flex;
+  justify-content: space-between;
 }
 
 .profile__add-btn {
@@ -57,7 +62,7 @@
 }
 
 .profile__tag {
-  color: white;
+  color: rgba(252, 245, 229, 1);
 }
 
 @media screen and (max-width: 627px) {

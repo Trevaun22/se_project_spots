@@ -1,9 +1,13 @@
 .footer {
   display: flex;
   justify-content: center;
-  top: 1340px;
-  left: 668px;
   color: rgba(33, 33, 33, 0.7);
   margin-bottom: 60px;
-  margin-top: 60px;
+  padding: 60px;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.footer__spots {
+  margin: 0;
 }
