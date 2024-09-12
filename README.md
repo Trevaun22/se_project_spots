@@ -20,4 +20,4 @@ this webpage is deployed to github pages.
 
 ## Explantion video
 
-- [Deployment Link](https://drive.google.com/file/d/1CnPS0R-dca9h0-Y8AN4dttD9PXf_OTEb/view?usp=drive_link)
+- [Deployment Link](https://drive.google.com/file/d/1CnPS0R-dca9h0-Y8AN4dttD9PXf_OTEb/view?usp=sharing)

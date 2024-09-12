@@ -26,6 +26,7 @@
   border: none;
   background-color: transparent;
   opacity: 40%;
+  cursor: pointer;
 }
 
 .card__like-btn:hover {
@@ -56,5 +57,9 @@
   }
   .card__content {
     max-width: 288px;
+  }
+  .card__title {
+    font-size: 16px;
+    line-height: 16px;
   }
 }
