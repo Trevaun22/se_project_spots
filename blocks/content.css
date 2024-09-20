@@ -10,3 +10,9 @@
     padding: 0;
   }
 }
+
+@media screen and (max-width: 1336px) and (min-width: 628px) {
+  .content {
+    padding: 0;
+  }
+}
